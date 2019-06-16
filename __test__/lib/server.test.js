@@ -1,6 +1,7 @@
 'use strict';
 
 const {server} = require('../../lib/server.js');
+require('../../lib/routes');
 const supertest = require('supertest');
 const mockRequest = supertest(server);
 
