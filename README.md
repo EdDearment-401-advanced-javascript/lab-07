@@ -44,5 +44,5 @@ npm test
 * What assertions need to be / should be made?
 
 #### UML
-![](./assets/----.jpg)
+![](../assets/Lab7_UML.jpg)
 # lab14-accessControl
